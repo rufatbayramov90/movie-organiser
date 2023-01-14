@@ -1,6 +1,6 @@
 {
-  "name": "bootcamp-m4-starter",
-  "homepage": "https://github.com/rufatbayramov90/movie-organiser.git",
+  "name": "movie-organiser",
+  "homepage": "https://github.com/rufatbayramov90/movie-organiser",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
